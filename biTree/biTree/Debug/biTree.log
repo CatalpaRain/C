@@ -1,0 +1,8 @@
+﻿  TestMain.c
+C:\Users\VAN\Documents\Tencent Files\3519211427\FileRecv\bintree.h(70,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\VAN\Documents\Tencent Files\3519211427\FileRecv\bintree.h(70,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\VAN\Documents\Tencent Files\3519211427\FileRecv\bintree.h(70,10): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\Users\VAN\Documents\Tencent Files\3519211427\FileRecv\bintree.h(70,10): message : 此参数用作缓冲区大小
+C:\Users\VAN\Documents\Tencent Files\3519211427\FileRecv\queue.h(60,9): warning C4033: “LinkQueueFront”必须返回值
+C:\Users\VAN\Documents\Tencent Files\3519211427\FileRecv\queue.h(63): warning C4715: “LinkQueueFront”: 不是所有的控件路径都返回值
+  biTree.vcxproj -> C:\Users\VAN\source\repos\biTree\Debug\biTree.exe
